@@ -1,0 +1,19 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: Verdana;
+}
+
+.container-principal {
+    padding: 1rem;
+}
+
+.cabecalho {
+    background-color: grey;
+    border: 1px solid black;
+    border-radius: 5px;
+    text-align: center;
+    color: aliceblue;
+    padding: 1rem;
+
+}
